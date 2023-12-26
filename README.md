@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthbobade" alt="siddharthbobade" /></a> </p>
 
-<p align="left"> <a href="(https://www.linkedin.com/in/siddharth-bobade-9009a0273/" target="blank"><img src="https://www.linkedin.com/in/siddharth-bobade-9009a0273/?logo=twitter&style=for-the-badge" alt="siddharthbobade" /></a> </p>
-
 # 💫 About Me:
 - 🌱 I’m currently learning **Web Development**
 
