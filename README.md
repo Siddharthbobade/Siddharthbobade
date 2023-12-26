@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @thesiddharthbobade (Siddharth Bobade) 
-   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=siddharthbobade.README>md)
+  
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;"> 
 
 ### 👀 I’m interested in coding.
