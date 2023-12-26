@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm @thesiddharthbobade (Siddharth Bobade)</h1>
 <h3 align="center">MERN stack developer from India.</h3>
-
-- 🌱 I’m currently learning **Web Development**
-
-- 💬 Ask me about **MERN, JS**
-
-- 📫 How to reach me **@siddharthbobade270@gmail.com**
-- 
-<img align="right" alt="Coding" width"250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width"250" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthbobade&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthbobade" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthbobade" alt="siddharthbobade" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/siddharthbobade" target="blank"><img src="https://img.shields.io/twitter/follow/siddharthbobade?logo=twitter&style=for-the-badge" alt="siddharthbobade" /></a> </p>
+
+- 🌱 I’m currently learning **Web Development**
+
+- 💬 Ask me about **MERN, JS**
+
+- 📫 How to reach me **@siddharthbobade270@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
