@@ -8,16 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/siddharthbobade" target="blank"><img src="https://img.shields.io/twitter/follow/siddharthbobade?logo=twitter&style=for-the-badge" alt="siddharthbobade" /></a> </p>
 
+# 💫 About Me:
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **MERN, JS**
 
 - 📫 How to reach me **@siddharthbobade270@gmail.com**
-
-<img align="right" alt="Coding" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-# 💫 About Me:
-🌱 I’m currently learning Web Development<br><br>💬 Ask me about MERN, JS<br><br>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/siddharthbobade) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thesiddharthbobade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthbobade) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/siddharthbobade) 
@@ -36,6 +32,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthbobade&show_icons=true&locale=en&layout=compact" alt="siddharthbobade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthbobade&show_icons=true&locale=en" alt="siddharthbobade" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthbobade&" alt="siddharthbobade" /></p>
