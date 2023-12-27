@@ -1,4 +1,5 @@
-          &nbsp;   &nbsp;    &nbsp; &nbsp;   ![Banner](https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif)
+
+  ![Banner](https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif)
 <h1 align="center">Hi 👋, I'm @thesiddharthbobade ($!D)</h1>
 <h3 align="center">MERN stack developer from India.</h3>
 <img align="right" alt="Coding" width"400" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
